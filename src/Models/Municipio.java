@@ -2,9 +2,10 @@ package Models;
 
 /**
  *
- * @author uncor
+ * @author CommonName(¿)
  */
 public class Municipio {
+    
     private int id;
     private String nombre;
 
